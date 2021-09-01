@@ -1,6 +1,16 @@
 # Project1
 Blood Donation 
 
+Background 
+info about BloodBank
+info about problem 
+value for the company (solve/invstgate problem),recomandion (money, servies, decision support,cutting cost ,health)
+
+data description 
+descrption of the datat
+sample size(as time)
+
+
      
 
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build?  
