@@ -2,5 +2,5 @@
 
 Project1_MTA_EDA  
 
-* [Project1.md](./Project1.md)
+* [Fahad Ali Alharb_MTA_EDA_Propsal.pdf](./Fahad Ali Alharb_MTA_EDA_Propsal.pdf)
 
